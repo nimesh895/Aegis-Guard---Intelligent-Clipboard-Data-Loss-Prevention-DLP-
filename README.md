@@ -87,6 +87,19 @@ This project showcases real-world skills in threat detection, Python automation,
 
 ---
 
+---
+
+---
+
+Use Cases
+
+Preventing accidental API key leaks during development
+Security awareness demonstrations
+Personal defensive security tooling
+Portfolio project for junior cybersecurity positions
+
+---
+
 ## Installation & Usage
 
 ### Prerequisites
@@ -100,3 +113,5 @@ git clone https://github.com/yourusername/aegis-guard.git
 cd aegis-guard
 pip install pyperclip plyer
 python aegis_guard.py
+
+
