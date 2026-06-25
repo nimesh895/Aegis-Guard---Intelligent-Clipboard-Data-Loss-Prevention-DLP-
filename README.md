@@ -27,7 +27,7 @@ This project showcases real-world skills in threat detection, Python automation,
 ## Screenshots
 
 ### 1. Creating the Project Directory
-![Creating Project Folder](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=1.+Creating+Project+Folder+on+C%3A+Drive)  
+![Creating Project Folder](creatineprojectfolder.png)  
 *Creating a dedicated project folder (AegisDLP) on the C: drive for organized development.*
 
 ### 2. Navigating to Project Folder in Command Prompt
