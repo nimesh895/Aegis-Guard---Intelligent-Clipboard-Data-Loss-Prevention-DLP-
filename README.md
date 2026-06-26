@@ -39,7 +39,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Saving the main Python script (`aegis_guard.py`) inside the project folder.*
 
 ### 4. Installing Required Python Packages
-![Installing Dependencies via pip](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=4.+Installing+pyperclip+and+plyer+Packages)  
+![Installing Dependencies via pip](installthepythonhelppackages.png)  
 *Running `pip install pyperclip plyer` to install the required libraries for clipboard access and notifications.*
 
 ### 5. Successful Package Installation
