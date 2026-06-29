@@ -43,7 +43,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Running `pip install pyperclip plyer` to install the required libraries for clipboard access and notifications.*
 
 ### 5. Successful Package Installation
-![Successful Installation of Packages](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=5.+Packages+Installed+Successfully)  
+![Successful Installation of Packages](successfullyinstalled.png)  
 *Confirmation that `pyperclip` and `plyer` were installed without errors.*
 
 ### 6. Aegis Guard Running Successfully
