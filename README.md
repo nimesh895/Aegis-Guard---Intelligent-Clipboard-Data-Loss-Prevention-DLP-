@@ -51,7 +51,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *The tool successfully launched and running silently in the background.*
 
 ### 7. Crafting the DLP Script (Code View)
-![Aegis Guard Source Code](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=7.+Core+DLP+Python+Script+Implementation)  
+![Aegis Guard Source Code](craftingDLPcode.png)  
 *View of the main Python script showing rules, monitoring logic, and notification system.*
 
 ### 8. Testing with Fake Sensitive Key
