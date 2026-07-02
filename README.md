@@ -35,7 +35,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Using the `cd` command in Command Prompt to enter the project directory.*
 
 ### 3. Saving the Python Script
-![Saving aegis_guard.py Script](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=3.+Saving+aegis_guard.py+in+Project+Folder)  
+![Saving aegis_guard.py Script](saveitoncreated folderaspy.png)  
 *Saving the main Python script (`aegis_guard.py`) inside the project folder.*
 
 ### 4. Installing Required Python Packages
