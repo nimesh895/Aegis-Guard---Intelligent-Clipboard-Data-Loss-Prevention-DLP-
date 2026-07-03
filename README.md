@@ -31,7 +31,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Creating a dedicated project folder (AegisDLP) on the C: drive for organized development.*
 
 ### 2. Navigating to Project Folder in Command Prompt
-![Navigating to Project Folder in CMD](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=2.+Navigating+to+Project+Folder+in+Command+Prompt)  
+![Navigating to Project Folder in CMD](locatetheprojectfolderoncmdtorunit.png)  
 *Using the `cd` command in Command Prompt to enter the project directory.*
 
 ### 3. Saving the Python Script
