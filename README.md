@@ -47,7 +47,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Confirmation that `pyperclip` and `plyer` were installed without errors.*
 
 ### 6. Aegis Guard Running Successfully
-![Aegis Guard Running in Terminal](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=6.+Aegis+Guard+Running+Successfully)  
+![Aegis Guard Running in Terminal](DLPaegisguardrunningsuccessfully.png)  
 *The tool successfully launched and running silently in the background.*
 
 ### 7. Crafting the DLP Script (Code View)
