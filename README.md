@@ -55,7 +55,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *View of the main Python script showing rules, monitoring logic, and notification system.*
 
 ### 8. Testing with Fake Sensitive Key
-![Testing with Fake OpenAI API Key](htotestcreatefakekeyanywhereonwindowsnotepad.png)  
+![Testing with Fake OpenAI API Key](totestcreatefakekeyanywhereonwindowsnotepad.png)  
 *Creating a test sensitive key (`sk-...`) in Notepad to simulate a potential data leak.*
 
 ### 9. Data Leak Detection & Blocking (Notification)
