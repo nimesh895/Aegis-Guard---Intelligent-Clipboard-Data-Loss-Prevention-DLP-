@@ -59,7 +59,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Creating a test sensitive key (`sk-...`) in Notepad to simulate a potential data leak.*
 
 ### 9. Data Leak Detection & Blocking (Notification)
-![Real-time Data Leak Blocked Notification](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=9.+DLP+Blocking+Notification+in+Action)  
+![Real-time Data Leak Blocked Notification](testedsuccesfullytheDLPblockedthecopyingthatdatafromclipboard.png)  
 *Windows toast notification triggered when Aegis Guard successfully detected and blocked sensitive data.*
 
 ### 10. Console Log - Leak Successfully Destroyed
