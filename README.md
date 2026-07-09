@@ -63,7 +63,7 @@ This project showcases real-world skills in threat detection, Python automation,
 *Windows toast notification triggered when Aegis Guard successfully detected and blocked sensitive data.*
 
 ### 10. Console Log - Leak Successfully Destroyed
-![Console Log Showing Leak Destroyed](https://via.placeholder.com/800x500/1E3A8A/FFFFFF?text=10.+Console+Log+-+Leak+Successfully+Destroyed)  
+![Console Log Showing Leak Destroyed](alsoappeardincmdtestedsuccessfully.png)  
 *Console output confirming the detection and destruction of the leaked sensitive data.*
 
 ---
